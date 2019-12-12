@@ -1,0 +1,1012 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 4083046368,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HomePageSteps.startUp()"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "Home page is open",
+        "description": "",
+        "id": "stfuandclick-application;home-page-is-open",
+        "after": [
+          {
+            "result": {
+              "duration": 151449705,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HomePageSteps.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1161992011,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I am at the Home page",
+            "match": {
+              "location": "HomePageSteps.i_am_at_the_Home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 76512539,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Leaderboard is shown on \"Home\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Home\"",
+                  "offset": 24
+                }
+              ],
+              "location": "HomePageSteps.leaderboardIsShown(String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 96060520,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Team name input works",
+            "match": {
+              "location": "HomePageSteps.teamNameInputWorks()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 83307940,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "All buttons are clickable on \"Home\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Home\"",
+                  "offset": 29
+                }
+              ],
+              "location": "HomePageSteps.buttonsAreClickable(String)"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@FunctionalTest"
+          },
+          {
+            "name": "@SmokeTest"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1736446364,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HomePageSteps.startUp()"
+            }
+          }
+        ],
+        "line": 19,
+        "name": "Team page \"IwillTestYourApp\" is open",
+        "description": "",
+        "id": "stfuandclick-application;team-page-\"\u003cteamname\u003e\"-is-open;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 152474180,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HomePageSteps.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 947188546,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I am at the \"IwillTestYourApp\" Team page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"IwillTestYourApp\"",
+                  "offset": 12
+                }
+              ],
+              "location": "HomePageSteps.iAmAtTheTeamPage(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 109828759,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "All buttons are clickable on \"Team\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Team\"",
+                  "offset": 29
+                }
+              ],
+              "location": "HomePageSteps.buttonsAreClickable(String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 60757578,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "Leaderboard is shown on \"Team\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Team\"",
+                  "offset": 24
+                }
+              ],
+              "location": "HomePageSteps.leaderboardIsShown(String)"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@FunctionalTest"
+          },
+          {
+            "name": "@SmokeTest"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1742940477,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HomePageSteps.startUp()"
+            }
+          }
+        ],
+        "line": 20,
+        "name": "Team page \"YourTestApp\" is open",
+        "description": "",
+        "id": "stfuandclick-application;team-page-\"\u003cteamname\u003e\"-is-open;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 144697466,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HomePageSteps.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 994356798,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I am at the \"YourTestApp\" Team page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"YourTestApp\"",
+                  "offset": 12
+                }
+              ],
+              "location": "HomePageSteps.iAmAtTheTeamPage(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 395368472,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "All buttons are clickable on \"Team\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Team\"",
+                  "offset": 29
+                }
+              ],
+              "location": "HomePageSteps.buttonsAreClickable(String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 34864479,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "Leaderboard is shown on \"Team\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Team\"",
+                  "offset": 24
+                }
+              ],
+              "location": "HomePageSteps.leaderboardIsShown(String)"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@FunctionalTest"
+          },
+          {
+            "name": "@SmokeTest"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1697729486,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HomePageSteps.startUp()"
+            }
+          }
+        ],
+        "line": 31,
+        "name": "Type a team IwillTestYourApp name, click the CLICK button and I will be at Team page",
+        "description": "",
+        "id": "stfuandclick-application;type-a-team-\u003cteamname\u003e-name--click-the-click-button-and-i-will-be-at-team-page;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 160555021,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HomePageSteps.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1225595128,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "I am at the Home page",
+            "match": {
+              "location": "HomePageSteps.i_am_at_the_Home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 321943357,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "I type \"IwillTestYourApp\" team name",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"IwillTestYourApp\"",
+                  "offset": 7
+                }
+              ],
+              "location": "HomePageSteps.iTypeTeamName(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 226134084,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "Press the CLICK buttom",
+            "match": {
+              "location": "HomePageSteps.pressTheCLICKButtom()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 40178924,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "I should be at the \"IwillTestYourApp\" team page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"IwillTestYourApp\"",
+                  "offset": 19
+                }
+              ],
+              "location": "HomePageSteps.iShouldBeAtTheTeamPage(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@FunctionalTest"
+          },
+          {
+            "name": "@SmokeTest"
+          },
+          {
+            "name": "@RegressionTest"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1729779724,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HomePageSteps.startUp()"
+            }
+          }
+        ],
+        "line": 32,
+        "name": "Type a team YourTestApp name, click the CLICK button and I will be at Team page",
+        "description": "",
+        "id": "stfuandclick-application;type-a-team-\u003cteamname\u003e-name--click-the-click-button-and-i-will-be-at-team-page;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 156146863,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HomePageSteps.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 2210276975,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "I am at the Home page",
+            "match": {
+              "location": "HomePageSteps.i_am_at_the_Home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 310531960,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "I type \"YourTestApp\" team name",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"YourTestApp\"",
+                  "offset": 7
+                }
+              ],
+              "location": "HomePageSteps.iTypeTeamName(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 178376808,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "Press the CLICK buttom",
+            "match": {
+              "location": "HomePageSteps.pressTheCLICKButtom()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 61810266,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "I should be at the \"YourTestApp\" team page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"YourTestApp\"",
+                  "offset": 19
+                }
+              ],
+              "location": "HomePageSteps.iShouldBeAtTheTeamPage(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@FunctionalTest"
+          },
+          {
+            "name": "@SmokeTest"
+          },
+          {
+            "name": "@RegressionTest"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1579242836,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HomePageSteps.startUp()"
+            }
+          }
+        ],
+        "line": 51,
+        "name": "Open one link in 2 tabs and clicking",
+        "description": "",
+        "id": "stfuandclick-application;open-one-link-in-2-tabs-and-clicking;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 740559050,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HomePageSteps.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1119850348,
+              "status": "passed"
+            },
+            "line": 37,
+            "name": "I am at the \"IwillTestYourApp\" Team page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"IwillTestYourApp\"",
+                  "offset": 12
+                }
+              ],
+              "location": "HomePageSteps.iAmAtTheTeamPage(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 727888798,
+              "status": "passed"
+            },
+            "line": 38,
+            "name": "I open second tab with \"IwillTestYourApp\" Team page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"IwillTestYourApp\"",
+                  "offset": 23
+                }
+              ],
+              "location": "HomePageSteps.iOpenSecondTabWithTeamPage(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2042773057,
+              "status": "passed"
+            },
+            "line": 39,
+            "name": "I press the click button \"10\" times on the 1 tab",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"10\"",
+                  "offset": 25
+                },
+                {
+                  "val": "1",
+                  "offset": 43
+                }
+              ],
+              "location": "HomePageSteps.iPressTheClickButtonTimesOnTheFirstTab(String,int)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 359108373,
+              "status": "passed"
+            },
+            "line": 40,
+            "name": "team clicks counter shows incremented value by \"10\" in the 1 tab",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"10\"",
+                  "offset": 47
+                },
+                {
+                  "val": "1",
+                  "offset": 59
+                }
+              ],
+              "location": "HomePageSteps.teamClicksCounterShowsIncrementedValueByInTheTab(String,int)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 225533628,
+              "status": "passed"
+            },
+            "line": 41,
+            "name": "team clicks in leaderboard incremented by \"10\" in the both tabs",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"10\"",
+                  "offset": 42
+                }
+              ],
+              "location": "HomePageSteps.teamClicksInLeaderboardIncrementedByInTheBothTabs(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "error_message": "org.opentest4j.AssertionFailedError: expected: \u003ctrue\u003e but was: \u003cfalse\u003e\n\tat org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:55)\n\tat org.junit.jupiter.api.AssertTrue.assertTrue(AssertTrue.java:40)\n\tat org.junit.jupiter.api.AssertTrue.assertTrue(AssertTrue.java:35)\n\tat org.junit.jupiter.api.Assertions.assertTrue(Assertions.java:162)\n\tat com.stfu.ui.steps.HomePageSteps.teamClicksCounterShowsIncrementedValueByInTheTab(HomePageSteps.java:193)\n\tat ✽.team clicks counter shows incremented value by \"10\" in the 2 tab(file:src/test/java/com/stfu/ui/features/STFUANDCLICK.feature:42)\n",
+              "duration": 81484156,
+              "status": "failed"
+            },
+            "line": 42,
+            "name": "team clicks counter shows incremented value by \"10\" in the 2 tab",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"10\"",
+                  "offset": 47
+                },
+                {
+                  "val": "2",
+                  "offset": 59
+                }
+              ],
+              "location": "HomePageSteps.teamClicksCounterShowsIncrementedValueByInTheTab(String,int)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 14954,
+              "status": "skipped"
+            },
+            "line": 44,
+            "name": "I press the click button \"10\" times on the 2 tab",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"10\"",
+                  "offset": 25
+                },
+                {
+                  "val": "2",
+                  "offset": 43
+                }
+              ],
+              "location": "HomePageSteps.iPressTheClickButtonTimesOnTheFirstTab(String,int)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 9261,
+              "status": "skipped"
+            },
+            "line": 45,
+            "name": "team clicks counter shows incremented value by \"10\" in the 2 tab",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"10\"",
+                  "offset": 47
+                },
+                {
+                  "val": "2",
+                  "offset": 59
+                }
+              ],
+              "location": "HomePageSteps.teamClicksCounterShowsIncrementedValueByInTheTab(String,int)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6584,
+              "status": "skipped"
+            },
+            "line": 46,
+            "name": "team clicks in leaderboard incremented by \"10\" in the both tabs",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"10\"",
+                  "offset": 42
+                }
+              ],
+              "location": "HomePageSteps.teamClicksInLeaderboardIncrementedByInTheBothTabs(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6249,
+              "status": "skipped"
+            },
+            "line": 47,
+            "name": "team clicks counter shows incremented value by \"10\" in the 1 tab",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"10\"",
+                  "offset": 47
+                },
+                {
+                  "val": "1",
+                  "offset": 59
+                }
+              ],
+              "location": "HomePageSteps.teamClicksCounterShowsIncrementedValueByInTheTab(String,int)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@FunctionalTest"
+          },
+          {
+            "name": "@RegressionTest"
+          },
+          {
+            "name": "#STFU-15"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1774672455,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HomePageSteps.startUp()"
+            }
+          }
+        ],
+        "line": 52,
+        "name": "Open one link in 2 tabs and clicking",
+        "description": "",
+        "id": "stfuandclick-application;open-one-link-in-2-tabs-and-clicking;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 702686415,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HomePageSteps.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 924183031,
+              "status": "passed"
+            },
+            "line": 37,
+            "name": "I am at the \"YourTestApp\" Team page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"YourTestApp\"",
+                  "offset": 12
+                }
+              ],
+              "location": "HomePageSteps.iAmAtTheTeamPage(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 613811429,
+              "status": "passed"
+            },
+            "line": 38,
+            "name": "I open second tab with \"YourTestApp\" Team page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"YourTestApp\"",
+                  "offset": 23
+                }
+              ],
+              "location": "HomePageSteps.iOpenSecondTabWithTeamPage(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1490673005,
+              "status": "passed"
+            },
+            "line": 39,
+            "name": "I press the click button \"2\" times on the 1 tab",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"2\"",
+                  "offset": 25
+                },
+                {
+                  "val": "1",
+                  "offset": 42
+                }
+              ],
+              "location": "HomePageSteps.iPressTheClickButtonTimesOnTheFirstTab(String,int)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 478921045,
+              "status": "passed"
+            },
+            "line": 40,
+            "name": "team clicks counter shows incremented value by \"2\" in the 1 tab",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"2\"",
+                  "offset": 47
+                },
+                {
+                  "val": "1",
+                  "offset": 58
+                }
+              ],
+              "location": "HomePageSteps.teamClicksCounterShowsIncrementedValueByInTheTab(String,int)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 288905785,
+              "status": "passed"
+            },
+            "line": 41,
+            "name": "team clicks in leaderboard incremented by \"2\" in the both tabs",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"2\"",
+                  "offset": 42
+                }
+              ],
+              "location": "HomePageSteps.teamClicksInLeaderboardIncrementedByInTheBothTabs(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "error_message": "org.opentest4j.AssertionFailedError: expected: \u003ctrue\u003e but was: \u003cfalse\u003e\n\tat org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:55)\n\tat org.junit.jupiter.api.AssertTrue.assertTrue(AssertTrue.java:40)\n\tat org.junit.jupiter.api.AssertTrue.assertTrue(AssertTrue.java:35)\n\tat org.junit.jupiter.api.Assertions.assertTrue(Assertions.java:162)\n\tat com.stfu.ui.steps.HomePageSteps.teamClicksCounterShowsIncrementedValueByInTheTab(HomePageSteps.java:193)\n\tat ✽.team clicks counter shows incremented value by \"2\" in the 2 tab(file:src/test/java/com/stfu/ui/features/STFUANDCLICK.feature:42)\n",
+              "duration": 130956428,
+              "status": "failed"
+            },
+            "line": 42,
+            "name": "team clicks counter shows incremented value by \"2\" in the 2 tab",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"2\"",
+                  "offset": 47
+                },
+                {
+                  "val": "2",
+                  "offset": 58
+                }
+              ],
+              "location": "HomePageSteps.teamClicksCounterShowsIncrementedValueByInTheTab(String,int)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 10344,
+              "status": "skipped"
+            },
+            "line": 44,
+            "name": "I press the click button \"2\" times on the 2 tab",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"2\"",
+                  "offset": 25
+                },
+                {
+                  "val": "2",
+                  "offset": 42
+                }
+              ],
+              "location": "HomePageSteps.iPressTheClickButtonTimesOnTheFirstTab(String,int)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 6779,
+              "status": "skipped"
+            },
+            "line": 45,
+            "name": "team clicks counter shows incremented value by \"2\" in the 2 tab",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"2\"",
+                  "offset": 47
+                },
+                {
+                  "val": "2",
+                  "offset": 58
+                }
+              ],
+              "location": "HomePageSteps.teamClicksCounterShowsIncrementedValueByInTheTab(String,int)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6574,
+              "status": "skipped"
+            },
+            "line": 46,
+            "name": "team clicks in leaderboard incremented by \"2\" in the both tabs",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"2\"",
+                  "offset": 42
+                }
+              ],
+              "location": "HomePageSteps.teamClicksInLeaderboardIncrementedByInTheBothTabs(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6191,
+              "status": "skipped"
+            },
+            "line": 47,
+            "name": "team clicks counter shows incremented value by \"2\" in the 1 tab",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"2\"",
+                  "offset": 47
+                },
+                {
+                  "val": "1",
+                  "offset": 58
+                }
+              ],
+              "location": "HomePageSteps.teamClicksCounterShowsIncrementedValueByInTheTab(String,int)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@FunctionalTest"
+          },
+          {
+            "name": "@RegressionTest"
+          },
+          {
+            "name": "#STFU-15"
+          }
+        ]
+      }
+    ],
+    "name": "STFUANDCLICK application",
+    "description": "",
+    "id": "stfuandclick-application",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/com/stfu/ui/features/STFUANDCLICK.feature",
+    "tags": [
+      {
+        "name": "@FunctionalTest",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
