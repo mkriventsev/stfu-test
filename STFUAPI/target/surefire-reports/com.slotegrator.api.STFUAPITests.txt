@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: com.slotegrator.api.STFUAPITests
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 12.178 s <<< FAILURE! - in com.slotegrator.api.STFUAPITests
+verifyPostClickJSONSchemaAndStatusCode  Time elapsed: 1.111 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <200> but was <400>.
+
+	at com.slotegrator.api.STFUAPITests.verifyPostClickJSONSchemaAndStatusCode(STFUAPITests.java:61)
+
