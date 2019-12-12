@@ -6,7 +6,7 @@
         "before": [
           {
             "result": {
-              "duration": 4083046368,
+              "duration": 3903324191,
               "status": "passed"
             },
             "match": {
@@ -21,7 +21,7 @@
         "after": [
           {
             "result": {
-              "duration": 151449705,
+              "duration": 263307808,
               "status": "passed"
             },
             "match": {
@@ -34,7 +34,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1161992011,
+              "duration": 1986741731,
               "status": "passed"
             },
             "line": 6,
@@ -46,7 +46,7 @@
           },
           {
             "result": {
-              "duration": 76512539,
+              "duration": 68635858,
               "status": "passed"
             },
             "line": 7,
@@ -64,7 +64,7 @@
           },
           {
             "result": {
-              "duration": 96060520,
+              "duration": 197825824,
               "status": "passed"
             },
             "line": 8,
@@ -76,7 +76,7 @@
           },
           {
             "result": {
-              "duration": 83307940,
+              "duration": 161349290,
               "status": "passed"
             },
             "line": 9,
@@ -106,7 +106,7 @@
         "before": [
           {
             "result": {
-              "duration": 1736446364,
+              "duration": 1934521924,
               "status": "passed"
             },
             "match": {
@@ -121,7 +121,7 @@
         "after": [
           {
             "result": {
-              "duration": 152474180,
+              "duration": 231508832,
               "status": "passed"
             },
             "match": {
@@ -134,7 +134,7 @@
         "steps": [
           {
             "result": {
-              "duration": 947188546,
+              "duration": 1115003983,
               "status": "passed"
             },
             "line": 13,
@@ -152,7 +152,7 @@
           },
           {
             "result": {
-              "duration": 109828759,
+              "duration": 106148175,
               "status": "passed"
             },
             "line": 14,
@@ -170,7 +170,7 @@
           },
           {
             "result": {
-              "duration": 60757578,
+              "duration": 41682492,
               "status": "passed"
             },
             "line": 15,
@@ -200,7 +200,7 @@
         "before": [
           {
             "result": {
-              "duration": 1742940477,
+              "duration": 1682672111,
               "status": "passed"
             },
             "match": {
@@ -215,7 +215,7 @@
         "after": [
           {
             "result": {
-              "duration": 144697466,
+              "duration": 216963792,
               "status": "passed"
             },
             "match": {
@@ -228,7 +228,7 @@
         "steps": [
           {
             "result": {
-              "duration": 994356798,
+              "duration": 1164975393,
               "status": "passed"
             },
             "line": 13,
@@ -246,7 +246,7 @@
           },
           {
             "result": {
-              "duration": 395368472,
+              "duration": 118359789,
               "status": "passed"
             },
             "line": 14,
@@ -264,7 +264,7 @@
           },
           {
             "result": {
-              "duration": 34864479,
+              "duration": 51598187,
               "status": "passed"
             },
             "line": 15,
@@ -294,7 +294,7 @@
         "before": [
           {
             "result": {
-              "duration": 1697729486,
+              "duration": 1783243016,
               "status": "passed"
             },
             "match": {
@@ -309,7 +309,7 @@
         "after": [
           {
             "result": {
-              "duration": 160555021,
+              "duration": 176791230,
               "status": "passed"
             },
             "match": {
@@ -322,7 +322,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1225595128,
+              "duration": 1503865857,
               "status": "passed"
             },
             "line": 24,
@@ -334,7 +334,7 @@
           },
           {
             "result": {
-              "duration": 321943357,
+              "duration": 413901960,
               "status": "passed"
             },
             "line": 25,
@@ -352,7 +352,7 @@
           },
           {
             "result": {
-              "duration": 226134084,
+              "duration": 221807847,
               "status": "passed"
             },
             "line": 26,
@@ -364,7 +364,7 @@
           },
           {
             "result": {
-              "duration": 40178924,
+              "duration": 108148004,
               "status": "passed"
             },
             "line": 27,
@@ -397,7 +397,7 @@
         "before": [
           {
             "result": {
-              "duration": 1729779724,
+              "duration": 1885443851,
               "status": "passed"
             },
             "match": {
@@ -412,7 +412,7 @@
         "after": [
           {
             "result": {
-              "duration": 156146863,
+              "duration": 173688999,
               "status": "passed"
             },
             "match": {
@@ -425,7 +425,7 @@
         "steps": [
           {
             "result": {
-              "duration": 2210276975,
+              "duration": 1063070761,
               "status": "passed"
             },
             "line": 24,
@@ -437,7 +437,7 @@
           },
           {
             "result": {
-              "duration": 310531960,
+              "duration": 325824679,
               "status": "passed"
             },
             "line": 25,
@@ -455,7 +455,7 @@
           },
           {
             "result": {
-              "duration": 178376808,
+              "duration": 204990004,
               "status": "passed"
             },
             "line": 26,
@@ -467,7 +467,7 @@
           },
           {
             "result": {
-              "duration": 61810266,
+              "duration": 122043751,
               "status": "passed"
             },
             "line": 27,
@@ -500,7 +500,7 @@
         "before": [
           {
             "result": {
-              "duration": 1579242836,
+              "duration": 1789738698,
               "status": "passed"
             },
             "match": {
@@ -515,7 +515,7 @@
         "after": [
           {
             "result": {
-              "duration": 740559050,
+              "duration": 777859060,
               "status": "passed"
             },
             "match": {
@@ -528,7 +528,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1119850348,
+              "duration": 1249534012,
               "status": "passed"
             },
             "line": 37,
@@ -546,7 +546,7 @@
           },
           {
             "result": {
-              "duration": 727888798,
+              "duration": 736176638,
               "status": "passed"
             },
             "line": 38,
@@ -564,7 +564,7 @@
           },
           {
             "result": {
-              "duration": 2042773057,
+              "duration": 2860171790,
               "status": "passed"
             },
             "line": 39,
@@ -586,7 +586,7 @@
           },
           {
             "result": {
-              "duration": 359108373,
+              "duration": 575966334,
               "status": "passed"
             },
             "line": 40,
@@ -608,7 +608,7 @@
           },
           {
             "result": {
-              "duration": 225533628,
+              "duration": 326454814,
               "status": "passed"
             },
             "line": 41,
@@ -627,7 +627,7 @@
           {
             "result": {
               "error_message": "org.opentest4j.AssertionFailedError: expected: \u003ctrue\u003e but was: \u003cfalse\u003e\n\tat org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:55)\n\tat org.junit.jupiter.api.AssertTrue.assertTrue(AssertTrue.java:40)\n\tat org.junit.jupiter.api.AssertTrue.assertTrue(AssertTrue.java:35)\n\tat org.junit.jupiter.api.Assertions.assertTrue(Assertions.java:162)\n\tat com.stfu.ui.steps.HomePageSteps.teamClicksCounterShowsIncrementedValueByInTheTab(HomePageSteps.java:193)\n\tat ✽.team clicks counter shows incremented value by \"10\" in the 2 tab(file:src/test/java/com/stfu/ui/features/STFUANDCLICK.feature:42)\n",
-              "duration": 81484156,
+              "duration": 110342706,
               "status": "failed"
             },
             "line": 42,
@@ -649,7 +649,7 @@
           },
           {
             "result": {
-              "duration": 14954,
+              "duration": 58501,
               "status": "skipped"
             },
             "line": 44,
@@ -671,7 +671,7 @@
           },
           {
             "result": {
-              "duration": 9261,
+              "duration": 38002,
               "status": "skipped"
             },
             "line": 45,
@@ -693,7 +693,7 @@
           },
           {
             "result": {
-              "duration": 6584,
+              "duration": 10078,
               "status": "skipped"
             },
             "line": 46,
@@ -711,7 +711,7 @@
           },
           {
             "result": {
-              "duration": 6249,
+              "duration": 7590,
               "status": "skipped"
             },
             "line": 47,
@@ -748,7 +748,7 @@
         "before": [
           {
             "result": {
-              "duration": 1774672455,
+              "duration": 1954152554,
               "status": "passed"
             },
             "match": {
@@ -763,7 +763,7 @@
         "after": [
           {
             "result": {
-              "duration": 702686415,
+              "duration": 635385110,
               "status": "passed"
             },
             "match": {
@@ -776,7 +776,7 @@
         "steps": [
           {
             "result": {
-              "duration": 924183031,
+              "duration": 1050479215,
               "status": "passed"
             },
             "line": 37,
@@ -794,7 +794,7 @@
           },
           {
             "result": {
-              "duration": 613811429,
+              "duration": 777150001,
               "status": "passed"
             },
             "line": 38,
@@ -812,7 +812,7 @@
           },
           {
             "result": {
-              "duration": 1490673005,
+              "duration": 2414858402,
               "status": "passed"
             },
             "line": 39,
@@ -834,7 +834,7 @@
           },
           {
             "result": {
-              "duration": 478921045,
+              "duration": 431967707,
               "status": "passed"
             },
             "line": 40,
@@ -856,7 +856,7 @@
           },
           {
             "result": {
-              "duration": 288905785,
+              "duration": 364719463,
               "status": "passed"
             },
             "line": 41,
@@ -875,7 +875,7 @@
           {
             "result": {
               "error_message": "org.opentest4j.AssertionFailedError: expected: \u003ctrue\u003e but was: \u003cfalse\u003e\n\tat org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:55)\n\tat org.junit.jupiter.api.AssertTrue.assertTrue(AssertTrue.java:40)\n\tat org.junit.jupiter.api.AssertTrue.assertTrue(AssertTrue.java:35)\n\tat org.junit.jupiter.api.Assertions.assertTrue(Assertions.java:162)\n\tat com.stfu.ui.steps.HomePageSteps.teamClicksCounterShowsIncrementedValueByInTheTab(HomePageSteps.java:193)\n\tat ✽.team clicks counter shows incremented value by \"2\" in the 2 tab(file:src/test/java/com/stfu/ui/features/STFUANDCLICK.feature:42)\n",
-              "duration": 130956428,
+              "duration": 140084001,
               "status": "failed"
             },
             "line": 42,
@@ -897,7 +897,7 @@
           },
           {
             "result": {
-              "duration": 10344,
+              "duration": 16420,
               "status": "skipped"
             },
             "line": 44,
@@ -919,7 +919,7 @@
           },
           {
             "result": {
-              "duration": 6779,
+              "duration": 12799,
               "status": "skipped"
             },
             "line": 45,
@@ -941,7 +941,7 @@
           },
           {
             "result": {
-              "duration": 6574,
+              "duration": 9705,
               "status": "skipped"
             },
             "line": 46,
@@ -959,7 +959,7 @@
           },
           {
             "result": {
-              "duration": 6191,
+              "duration": 7586,
               "status": "skipped"
             },
             "line": 47,
